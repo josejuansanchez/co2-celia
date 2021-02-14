@@ -1,10 +1,10 @@
 # co2-celia
 
-Proyecto experimental para monitorizar el CO2.
+Proyecto experimental de IoT para monitorizar el CO2.
 
 Este proyecto se ha realizado en el módulo profesional **Implantación de aplicaciones web** del **CFGS ASIR** del **IES Celia Viñas (Almería)**, durante el curso escolar 2020/2021.
 
-Puede encontrar una descripción detallada del proyecto en la [página web del proyecto](https://josejuansanchez.org/iot-dashboard/).
+Puede encontrar una descripción detallada en la página web del proyecto: [«IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana»](https://josejuansanchez.org/iot-dashboard/).
 
 ## Descripción
 
