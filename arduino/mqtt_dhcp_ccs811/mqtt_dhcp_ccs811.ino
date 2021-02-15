@@ -5,12 +5,11 @@
 #include <CCS811.h>
 
 // WiFi configuration
-#define WLAN_SSID       ""
-#define WLAN_PASS       ""
+#define WLAN_SSID       "PUT_YOUR_WLAN_SSID_HERE"
+#define WLAN_PASS       "PUT_YOUR_WLAN_PASS_HERE"
 
 // MQTT configuration
-#define MQTT_SERVER      "192.168.0.155"
-//#define MQTT_SERVER      "test.mosquitto.org"
+#define MQTT_SERVER      "PUT_YOUR_MQTT_SERVER_HERE"
 #define MQTT_SERVERPORT  1883
 #define MQTT_USERNAME    ""
 #define MQTT_KEY         ""
