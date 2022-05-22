@@ -55,7 +55,6 @@ services:
 volumes:
   mosquitto_data:
   mosquitto_log:
-  node_red_user_data:
   influxdb_data:
   grafana_data:
   chronograf_data:
